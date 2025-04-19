@@ -16,5 +16,5 @@ email: artur.kuzminskii@math.msu.ru
 
 ## Навыки
 - **Programming**: C/C++, Python, SQL
-- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch
+- **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch, OpenCV
 - **Extra**: Wolfram Mathematica, LaTeX
